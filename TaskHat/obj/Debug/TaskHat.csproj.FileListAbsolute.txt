@@ -1,0 +1,10 @@
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\bin\Debug\TaskHat.exe.config
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\bin\Debug\TaskHat.exe
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\bin\Debug\TaskHat.pdb
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Debug\TaskHat.Load.resources
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Debug\TaskHat.Properties.Resources.resources
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Debug\TaskHat.csproj.GenerateResource.Cache
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Debug\TaskHat.exe
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Debug\TaskHat.pdb
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Debug\TaskHat.Main.resources
+c:\users\andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Debug\TaskHat.csprojResolveAssemblyReference.cache

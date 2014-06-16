@@ -1,0 +1,14 @@
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\bin\Release\TaskHat.exe.config
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\bin\Release\TaskHat.exe
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Release\TaskHat.Load.resources
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Release\TaskHat.Main.resources
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Release\TaskHat.Properties.Resources.resources
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Release\TaskHat.csproj.GenerateResource.Cache
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Release\TaskHat.exe
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Release\TaskHat.pdb
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\bin\Release\TaskHat.pdb
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Release\TaskHat.csprojResolveAssemblyReference.cache
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\bin\Release\TaskHat.exe.manifest
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\bin\Release\TaskHat.application
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Release\TaskHat.exe.manifest
+C:\Users\Andy\documents\visual studio 2013\Projects\TaskHat\TaskHat\obj\Release\TaskHat.application
